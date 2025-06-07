@@ -1,0 +1,11 @@
+Location,RoomType,AC,WiFi,Food,Distance,Season,Rent
+Mumbai,Shared,1,1,0,1.5,Summer,9500
+Mumbai,Private,1,1,1,0.7,Summer,13500
+Pune,Shared,0,1,0,2.0,Winter,7800
+Bangalore,Shared,1,0,1,1.2,Rainy,8700
+Chennai,Private,1,1,0,1.0,Winter,11000
+Hyderabad,Private,1,1,1,0.5,Summer,14000
+Delhi,Shared,0,1,0,1.8,Winter,8200
+Delhi,Private,1,1,1,0.3,Rainy,15000
+Pune,Private,1,1,0,0.8,Summer,12500
+Mumbai,Shared,1,0,0,1.6,Winter,8900
